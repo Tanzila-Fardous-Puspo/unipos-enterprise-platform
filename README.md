@@ -1,18 +1,15 @@
 ## Identity Access UI
 
-<div style="
-  display: flex;
-  flex-wrap: nowrap;
-  overflow-x: auto;
-  gap: 16px;
-  padding: 10px 0;
-">
+<div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ddd;">
 
-  <img src="frontend/Screenshot (497).png" style="width: 300px; flex: 0 0 auto;" />
-  <img src="frontend/Screenshot (497).png" style="width: 300px; flex: 0 0 auto;" />
-  <img src="frontend/Screenshot (497).png" style="width: 300px; flex: 0 0 auto;" />
-  <img src="frontend/Screenshot (497).png" style="width: 300px; flex: 0 0 auto;" />
-  <img src="frontend/Screenshot (497).png" style="width: 300px; flex: 0 0 auto;" />
-  <img src="frontend/Screenshot (497).png" style="width: 300px; flex: 0 0 auto;" />
+  <img src="frontend/Screenshot (497).png" style="display:inline-block; width:300px; margin-right:10px;" />
+  <img src="frontend/Screenshot (497).png" style="display:inline-block; width:300px; margin-right:10px;" />
+  <img src="frontend/Screenshot (497).png" style="display:inline-block; width:300px; margin-right:10px;" />
+  <img src="frontend/Screenshot (497).png" style="display:inline-block; width:300px; margin-right:10px;" />
+  <img src="frontend/Screenshot (497).png" style="display:inline-block; width:300px; margin-right:10px;" />
+  
+  <!-- continue up to 20+ images -->
 
 </div>
+
+
