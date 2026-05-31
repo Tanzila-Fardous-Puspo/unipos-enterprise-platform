@@ -8,11 +8,11 @@
   padding: 10px 0;
 ">
 
-  <img src="frontend/Screenshot (497)" style="width: 300px; flex: 0 0 auto;" />
-  <img src="frontend/Screenshot (497)" style="width: 300px; flex: 0 0 auto;" />
-  <img src="frontend/Screenshot (497)" style="width: 300px; flex: 0 0 auto;" />
-  <img src="frontend/Screenshot (497)" style="width: 300px; flex: 0 0 auto;" />
-  <img src="frontend/Screenshot (497)" style="width: 300px; flex: 0 0 auto;" />
-  <img src="frontend/Screenshot (497)" style="width: 300px; flex: 0 0 auto;" />
+  <img src="frontend/Screenshot (497).png" style="width: 300px; flex: 0 0 auto;" />
+  <img src="frontend/Screenshot (497).png" style="width: 300px; flex: 0 0 auto;" />
+  <img src="frontend/Screenshot (497).png" style="width: 300px; flex: 0 0 auto;" />
+  <img src="frontend/Screenshot (497).png" style="width: 300px; flex: 0 0 auto;" />
+  <img src="frontend/Screenshot (497).png" style="width: 300px; flex: 0 0 auto;" />
+  <img src="frontend/Screenshot (497).png" style="width: 300px; flex: 0 0 auto;" />
 
 </div>
