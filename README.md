@@ -10,6 +10,8 @@
 ![React](https://img.shields.io/badge/React.js-FAECE7?style=flat&logo=react&logoColor=712B13)
 ![Microservices](https://img.shields.io/badge/Microservices-EEEDFE?style=flat&logoColor=3C3489)
 
+![Status](https://img.shields.io/badge/Status-Active_Development_·_60%25_Complete-5DCAA5?style=flat&labelColor=085041)
+
 # UniPOS Enterprise Platform
 
 <table>
