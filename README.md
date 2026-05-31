@@ -1,11 +1,18 @@
-
 ## Identity Access UI
 
-<div style="overflow-x:auto; white-space:nowrap; padding:10px 0;">
+<div style="
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  gap: 16px;
+  padding: 10px 0;
+">
 
-  <img src="frontend/Screenshot (497).png" width="280" style="display:inline-block; margin-right:10px;" />
-  <img src="frontend/Screenshot (497).png" width="280" style="display:inline-block; margin-right:10px;" />
-  <img src="frontend/Screenshot (497).png" width="280" style="display:inline-block; margin-right:10px;" />
-  <img src="frontend/Screenshot (497).png" width="280" style="display:inline-block; margin-right:10px;" />
+  <img src="frontend/Screenshot (497)" style="width: 300px; flex: 0 0 auto;" />
+  <img src="frontend/Screenshot (497)" style="width: 300px; flex: 0 0 auto;" />
+  <img src="frontend/Screenshot (497)" style="width: 300px; flex: 0 0 auto;" />
+  <img src="frontend/Screenshot (497)" style="width: 300px; flex: 0 0 auto;" />
+  <img src="frontend/Screenshot (497)" style="width: 300px; flex: 0 0 auto;" />
+  <img src="frontend/Screenshot (497)" style="width: 300px; flex: 0 0 auto;" />
 
 </div>
