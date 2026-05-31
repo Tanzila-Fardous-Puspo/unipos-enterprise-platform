@@ -12,6 +12,15 @@
 
 ![Status](https://img.shields.io/badge/Status-Active_Development_·_60%25_Complete-5DCAA5?style=flat&labelColor=085041)
 
+<h2>🏢 1 · Project & Company Overview</h2>
+<h2>🖥️ 2 · Frontend Screenshots</h2>
+<h2>🗺️ 3 · System Architecture</h2>
+<h2>⚙️ 4 · Tech Stack</h2>
+<h2>👤 5 · My Role & Contributions</h2>
+<h2>💻 6 · Code Samples</h2>
+<h2>🔐 7 · Full Source Code Access via GitShare</h2>
+<h2>⚠️ 8 · Disclaimer</h2>
+
 # UniPOS Enterprise Platform
 
 <table>
