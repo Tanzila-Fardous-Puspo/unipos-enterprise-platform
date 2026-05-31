@@ -1,3 +1,5 @@
+![Banner](architecture/banner.svg)
+
 # UniPOS Enterprise Platform
 
 <table>
