@@ -4,19 +4,13 @@
 
 <table>
   <tr>
-    <td><img src="frontend/Screenshot (497).png" height="180"></td>
-    <td><img src="frontend/Screenshot (497).png" height="180"></td>
-    <td><img src="frontend/Screenshot (497).png" height="180"></td>
-    <td><img src="frontend/Screenshot (497).png" height="180"></td>
-    <td><img src="frontend/Screenshot (497).png" height="180"></td>
-    <td><img src="frontend/Screenshot (497).png" height="180"></td>
-    <td><img src="frontend/Screenshot (497).png" height="180"></td>
-    <td><img src="frontend/Screenshot (497).png" height="180"></td>
+    <td><img src="frontend/Screenshot (497).png" height="280" style="min-width:450px;"></td>
+    <td><img src="frontend/Screenshot (497).png" height="280" style="min-width:450px;"></td>
+    <td><img src="frontend/Screenshot (497).png" height="280" style="min-width:450px;"></td>
+    <td><img src="frontend/Screenshot (497).png" height="280" style="min-width:450px;"></td>
+    <td><img src="frontend/Screenshot (497).png" height="280" style="min-width:450px;"></td>
+    <td><img src="frontend/Screenshot (497).png" height="280" style="min-width:450px;"></td>
   </tr>
 </table>
 
 </div>
-
-
-
-
